@@ -1,4 +1,4 @@
-# Adaptive Traffic Lights with Emergency Vehicle Preemption (Arduino + Tinkercad)
+# Adaptive Traffic Lights with Emergency Vehicle Preemption 
 
 ## Objectives
 The principal objective of this project is the conception and realization of an **adaptive intersection control system** capable of dynamically regulating vehicular and pedestrian flows while incorporating **emergency vehicle preemption**. Specifically, the system is designed to:  
