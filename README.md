@@ -16,7 +16,8 @@ The project emulates a **two-phase intersection** comprising a **North–South (
 The FSM supervises state transitions, enforcing **minimum green**, **maximum green**, **yellow change intervals**, and **all-red clearance periods** to ensure operational safety. Upon receipt of an **emergency preemption request** (via dedicated buttons for NS and EW), the controller truncates the conflicting phase, executes clearance intervals, and assigns **exclusive right-of-way** to the emergency approach for a guaranteed service window. A recovery interval restores equilibrium before the resumption of normal adaptive operation.  
 
 The complete architecture is implemented in **Arduino Uno** within **Tinkercad Circuits**, thereby affording replicability in both virtual and physical laboratories.  
-
+Explore, run, and modify this project directly in **Tinkercad Circuits**:
+👉 [Open the Smart Fan in Tinkercad](https://www.tinkercad.com/things/jclR9sWg7V6-adaptivetrafficpreemption)  
 ---
 
 ## Components
