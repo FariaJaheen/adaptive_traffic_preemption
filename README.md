@@ -1,7 +1,7 @@
 # Adaptive Traffic Lights with Emergency Vehicle Preemption 
 
 ## Objectives
-The principal objective of this project is the conception and realization of an **adaptive intersection control system** capable of dynamically regulating vehicular and pedestrian flows while incorporating **emergency vehicle preemption**. Specifically, the system is designed to:  
+The principal objective of this project is the conception and realization of an adaptive intersection control system capable of dynamically regulating vehicular and pedestrian flows while incorporating emergency vehicle preemption. Specifically, the system is designed to:  
 - Demonstrate the application of a **finite state machine (FSM)** paradigm for safety-critical sequencing of signal phases.  
 - Implement **queue-responsive phase extensions** utilizing photoresistor-based vehicle detectors with hysteresis filtering to mitigate spurious activations.  
 - Provide **pedestrian service intervals** encompassing *Walk* and *Flashing Don’t Walk (FDW)* signals with guaranteed minimum crossing times.  
